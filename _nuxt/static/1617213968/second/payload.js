@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/second", {data:[{}],fetch:{},mutations:void 0});
